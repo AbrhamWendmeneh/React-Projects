@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.image--bgr{
+    width: 30px;
+    margin-right: 13px;
+    background-color: white;
+    border-radius: 50%;
+}
+.nav--bgr{
+    background: #F55A5A;
+    display:flex;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 2rem;
+    color: white;
+    
+    
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    padding: 0.4rem;
+    margin-bottom: 3rem;
+    border-bottom:  2px solid #F5F5F5;
+}
+.img--part{
+    height: 100%;
+    width: 20em;
+    object-fit: cover;
+    border-radius: 1rem;
+    margin-left: 0;
+}
+.main--app{
+    display: flex;
+    flex-direction: column;
+    padding: 4em 3em;
+}
+.main--comp{
+   padding: 0rem;
+    margin: 1em  ;
+    
+}
+.main--map{
+    font-size: 12px;
+    color:#918E9B;
+
+}
+.main--path{
+    width: 1rem;
+    height: 1rem;
+}
+.main--location{
+    display: inline-block;
+    margin: 0 1em 0 0.25em;
+    font-weight: lighter;
+    
+    
+}
+.main--title{
+    font-family: serif;
+    font-size: 2rem;
+    margin: 0.25em 0;
+    font-weight: 700;
+}
+.main--date{
+    font-weight: bold;
+}
+.main--description{
+    max-width: 50rem;
+    margin-top: 2em;
+    font-weight: 400;
+    font-size: 0.75rem;
+    line-height: 150%;
+}
+footer{
+    text-align: center;
+    margin-bottom: 3rem
+    
+}
+.footer{
+    color: dodgerblue;
+    text-decoration: none;
+    
+}
