@@ -1,6 +1,7 @@
 # cofb140e8a50fdc0d584e7510
 
 Quick start:
+<img width="290" alt="react_img" src="https://user-images.githubusercontent.com/99592824/230872796-c2062bf0-c1a3-437a-a3f5-1aef2ce68ca9.PNG">
 
 ```
 $ yarn # npm install
